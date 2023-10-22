@@ -2,10 +2,11 @@
 
 You can call me Roberto. I am currently enrolled as an academic in the Systems Analysis and Development B. Tech course. I'm also eager to explore different stacks and tools beyond the traditional academia to further improve my knowledge and competence in technology.
 
-- 🔭 **Work**: internship program at Compass.UOL.
-- 📚 **Learn**: Data Engineering with AWS | Docker | Git/GitHub | Linux | Hadoop | PySpark | Python | SQL
+- 🔭 **Working**: as a Data Engineering intern at Compass.UOL
+- 📚 **Learning**: AWS solutions | Docker | Git/GitHub | Linux | Hadoop | PySpark | Python | SQL
 
 ---
+- 📔 I'm also currently studying Full Stack Web Development in my free time.
 
 - 🌱 I enjoy Minimalism, Autodidacticism, Continuous improvement and constructive criticism.
 - 🤔 Sometimes I suffer from analysis paralysis (I'm getting better at managing it)!
