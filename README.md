@@ -6,7 +6,6 @@ You can call me Roberto. I am currently enrolled as an academic in the Systems A
 - 📚 **Learning**: AWS solutions | Docker | Git/GitHub | Linux | Hadoop | PySpark | Python | SQL
 
 ---
-- 📔 I'm also currently studying Full Stack Web Development in my free time.
 
 - 🌱 I enjoy Minimalism, Autodidacticism, Continuous improvement and constructive criticism.
 - 🤔 Sometimes I suffer from analysis paralysis (I'm getting better at managing it)!
