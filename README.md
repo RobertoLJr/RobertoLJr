@@ -1,6 +1,6 @@
 ### Hello there!
 
-Hi, I'm Roberto. I am currently enrolled as an academic in the Systems Analysis and Development B. Tech course. I'm eager to explore different stacks and tools beyond the traditional academia to further improve my knowledge and competence in IT.
+Hi, I'm Roberto. I am currently enrolled as an academic in the Systems Analysis and Development degree course. I'm eager to explore different stacks and tools beyond the traditional academia to further improve my knowledge and competence in IT.
 
 - 💼 **Working**: Actively searching for opportunities. See my contacts below.
 - 📚 **Learning**: Python (see my [100-days-of-python](https://github.com/RobertoLJr/100-days-of-python) repository for projects, which include automation, Web Development, Data Science, and more).
