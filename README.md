@@ -2,10 +2,9 @@
 
 Hi, I'm Roberto. I am currently enrolled as an academic in the Systems Analysis and Development degree course. I'm eager to explore different stacks and tools beyond the traditional academia to further improve my knowledge and competence in IT.
 
-- 💼 **Working**: as a Programmer Trainee @Compass.UOL.
-- 📚 **Learning**: Data Engineering & AWS.
+AWS Certified Cloud Practitioner | AWS Certified Solutions Architect - Associate
 
-I have also some experience with:
+I am familiar and have experience with:
 
 **Programming Languages**  
 ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk&logoColor=ED8B00)
