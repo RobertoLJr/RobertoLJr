@@ -1,8 +1,8 @@
 ### Hello there!
 
-Hi, I'm Roberto. I am currently enrolled as an academic in the Systems Analysis and Development degree course. I'm eager to explore different stacks and tools beyond the traditional academia to further improve my knowledge and competence in IT.
+Hi, I'm Roberto. I am currently enrolled as an academic in the Systems Analysis and Development degree course. I'm eager to explore different stacks and tools beyond the traditional academia to further improve my knowledge and competence in IT. I have Junior-level experience with Data Analysis/Engineering within the AWS environment. More recently, I have been delving into native mobile development with Kotlin and Jetpack Compose using Android Studio, and I am also interested in learning backend development with Java and its Frameworks, especially within a cloud-based environment.
 
-AWS Certified Cloud Practitioner | AWS Certified Solutions Architect - Associate
+AWS Certified Cloud Practitioner | AWS Certified AI Practitioner | AWS Certified Solutions Architect - Associate
 
 I am familiar and have experience with:
 
