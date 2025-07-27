@@ -1,48 +1,41 @@
-### Hello there!
+# ⚒️ ✊
 
-Hi, I'm Roberto. I am currently enrolled as an academic in the Systems Analysis and Development degree course. I'm eager to explore different stacks and tools beyond the traditional academia to further improve my knowledge and competence in IT. I have Junior-level experience with Data Analysis/Engineering within the AWS environment. More recently, I have been delving into native mobile development with Kotlin and Jetpack Compose using Android Studio, and I am also interested in learning backend development with Java and its Frameworks, especially within a cloud-based environment.
+---
 
-AWS Certified Cloud Practitioner | AWS Certified AI Practitioner | AWS Certified Solutions Architect - Associate
+I'm a **Computer Science** student with hands-on experience in Data Analysis and Engineering—Currently exploring full-stack and backend development.
 
-I am familiar and have experience with:
+- **Programming Languages:** Java, Kotlin, Python, SQL  
+- **Frontend**: HTML5, CSS3, Bootstrap  
+- **Backend**: Spring Boot, Flask
+- **DBMS**: MySQL, PostgreSQL, SQLite
+- **Tools**: Apache Spark, AWS, Docker, Git, Linux, Postman  
 
-**Programming Languages**  
-![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk&logoColor=ED8B00)
-![Kotlin](https://img.shields.io/badge/Kotlin-333333?&style=flat&logo=kotlin&logoColor=0095D5)
-![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=3776AB)
+## Featured Projects
 
-**DBMS**  
-![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=005C84)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql&logoColor=316192)
-![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite&logoColor=07405E)
-
-**Data Engineering**  
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-333333?style=flat&logo=apachespark&logoColor=FDEE21)
-
-**Web Development**  
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Flask](https://img.shields.io/badge/Flask-333333?style=flat&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-
-**Utilities**  
-![AWS](https://img.shields.io/badge/Amazon_AWS-333333?style=flat&logo=amazon-aws&logoColor=232F3E)
-![Docker](https://img.shields.io/badge/Docker-333333.svg?style=flat&logo=docker&logoColor=230db7ed)
-![Git](https://img.shields.io/badge/Git-333333.svg?style=flat&logo=git&logoColor=23F05033)
-![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=postman&logoColor=FF6C37)
+---
 
 <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 src="https://github-readme-stats.vercel.app/api?username=robertoljr&show_icons=True&theme=dark&bg_color=00000000"/>
-    </a>
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=robertoljr&layout=compact&langs_count=8&card_width=320&theme=dark&bg_color=00000000"/>
-    </a>
+
+[`Work in Progress...`]()
+
 </div>
 
 ---
 
 <div align="center">
-    <a href = "mailto:gsn.roberto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/robertoljr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=robertoljr&theme=dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=robertoljr&theme=dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=robertoljr&theme=dark) |
+|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+
+</div>
+
+Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github)
+
+---
+
+<div align="center">
+
+<a href = "mailto:gsn.roberto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/robertoljr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
 </div>
