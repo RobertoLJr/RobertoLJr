@@ -1,7 +1,5 @@
 # ⚒️ ✊
 
----
-
 I'm a **Computer Science** student with hands-on experience in Data Analysis and Engineering—Currently exploring full-stack and backend development.
 
 - **Programming Languages:** Java, Kotlin, Python, SQL  
@@ -12,15 +10,11 @@ I'm a **Computer Science** student with hands-on experience in Data Analysis and
 
 ## Featured Projects
 
----
-
 <div align="center">
 
 [`Work in Progress...`]()
 
 </div>
-
----
 
 <div align="center">
 
