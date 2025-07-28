@@ -6,15 +6,11 @@ I'm a **Computer Science** student with hands-on experience in Data Analysis and
 - **Frontend**: HTML5, CSS3, Bootstrap  
 - **Backend**: Spring Boot, Flask
 - **DBMS**: MySQL, PostgreSQL, SQLite
-- **Tools**: Apache Spark, AWS, Docker, Git, Linux, Postman  
+- **Tools**: Git, AWS, Docker, Linux, Postman, Apache Spark  
 
 ## Featured Projects
 
-<div align="center">
-
-[`Work in Progress...`]()
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Work+in+progress...)](https://git.io/typing-svg)
 
 <div align="center">
 
