@@ -13,7 +13,7 @@ full-stack and backend development.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Work+in+progress...)](https://git.io/typing-svg)
 
-| Projects                                                                                               | Summary                                                                                                                                                                                                          | Technologies                  |
+| Project Name                                                                                       | Summary                                                                                                                                                                                                          | Technologies                  |
 |--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
 | [**Simplified Online Payment System**](https://github.com/RobertoLJr/simplified-online-payment-system) | A back-end solution for a technical assessment simulating a RESTful API. This system is able to manage users, transactions and notifications. It supports content negotiation and OpenAPI/Swagger documentation. | Java, Spring Boot, PostgreSQL |
 
