@@ -15,8 +15,8 @@ full-stack and backend development.
 
 | Project Name                                                                                       | Summary                                                                                                                                                                                                          | Technologies                  |
 |--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
-| [**Simplified Online Payment System**](https://github.com/RobertoLJr/simplified-online-payment-system) | A back-end solution for a technical assessment simulating a RESTful API. This system is able to manage users, transactions and notifications. It supports content negotiation and OpenAPI/Swagger documentation. | Java, Spring Boot, PostgreSQL |
 | 🚧 WIP 🚧 [**Gamelist**](https://github.com/RobertoLJr/gamelist) | A back-end simulation of a game catalogue, with a cover image, score, descriptions and more from each game. | Java, Spring Boot, H2, PostgreSQL |
+| [**Simplified Online Payment System**](https://github.com/RobertoLJr/simplified-online-payment-system) | A back-end solution for a technical assessment simulating a RESTful API. This system is able to manage users, transactions and notifications. It supports content negotiation and OpenAPI/Swagger documentation. | Java, Spring Boot, PostgreSQL |
 
 <div align="center">
 
