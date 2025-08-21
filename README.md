@@ -9,9 +9,7 @@ full-stack and backend development.
 - **DBMS**: MySQL, PostgreSQL, SQLite
 - **Tools**: Git, AWS, Docker, Linux, Postman, Apache Spark
 
-## Featured Projects 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Work+in+progress...)](https://git.io/typing-svg)
+## Featured Projects
 
 | Project Name                                                                                       | Summary                                                                                                                                                                                                          | Technologies                  |
 |--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
